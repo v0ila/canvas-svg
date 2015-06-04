@@ -1,0 +1,1 @@
+This is a set of related components that make canvas and SVG play together more. Notably, it allows you to save a canvas 2D context as SVG, and to have an SVG mirror of a canvas context.
